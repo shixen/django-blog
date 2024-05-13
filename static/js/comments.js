@@ -26,7 +26,6 @@ for (let button of editButtons) {
     commentForm.setAttribute("action", `edit_comment/${commentId}`);
   });
 }
-
 /**
 * Initializes deletion functionality for the provided delete buttons.
 * 
